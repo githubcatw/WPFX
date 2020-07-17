@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFX", "WPFX\WPFX.csproj", "{E6F987F8-7647-496B-A8D9-A0910671BEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFX.Demo", "WPFX.Demo\WPFX.Demo.csproj", "{18633489-25A8-457F-8592-199144F9ECFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F987F8-7647-496B-A8D9-A0910671BEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F987F8-7647-496B-A8D9-A0910671BEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F987F8-7647-496B-A8D9-A0910671BEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F987F8-7647-496B-A8D9-A0910671BEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18633489-25A8-457F-8592-199144F9ECFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18633489-25A8-457F-8592-199144F9ECFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18633489-25A8-457F-8592-199144F9ECFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18633489-25A8-457F-8592-199144F9ECFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58028F25-6673-446D-A42F-38E901C37C93}
+	EndGlobalSection
+EndGlobal

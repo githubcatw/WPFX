@@ -1,0 +1,3 @@
+<!-- This is a dummy file existing because Microsoft can't make their world-class
+     C# IDE remove not only a file, but its references in the project too -->
+<Dummy file="WpfXRes.xaml"/>
